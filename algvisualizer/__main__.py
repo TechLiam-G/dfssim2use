@@ -1,4 +1,5 @@
 from algvisualizer import dfs
+import time
 
 if __name__ == "__main__":
     adj = {
@@ -18,7 +19,7 @@ if __name__ == "__main__":
     }
 
     visited = [False] * len(adj)
-
+    time.sleep(5)
     dfs(adj, visited, 0)
 
     print("DFS completed successfully!")
