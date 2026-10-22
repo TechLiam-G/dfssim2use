@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: algvisualizer
+Version: 0.1.0
+Summary: An algorithm visualizer project.
+Author: Liam
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
